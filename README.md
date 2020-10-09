@@ -1,2 +1,2 @@
 # blog
-Only a simple blog to training DDD.
+Only a simple blog to training.
