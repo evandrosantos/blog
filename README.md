@@ -1,2 +1,2 @@
-# blog
-Only a simple blog to training.
+# Blog
+Um blog simples apenas para testar uns conceitos.
